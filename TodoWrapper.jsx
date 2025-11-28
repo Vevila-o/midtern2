@@ -3,7 +3,7 @@ import CreateForm from "./CreateForm"
 function TodoWrapper(){
     return (
     <div className="wrapper">
-        TodoWrapper
+        <h1>代辦事項</h1>
         <CreateForm />
     <div/>
     );
